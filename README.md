@@ -1,5 +1,5 @@
 <p align="center">
-<img width="600px" height="500px" src="https://i.imgur.com/1trjmz5.gif"/><br>
+<img width="600px" src="https://i.imgur.com/1trjmz5.gif"/><br>
 <em>
 Hi, welcome!<br>
 Discord: .̾/̾cxn#0001
