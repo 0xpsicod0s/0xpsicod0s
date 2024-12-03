@@ -2,7 +2,7 @@
     <img width="600px" src="https://i.imgur.com/bGNL2u3.gif"/> <br>
     <em>
         Hi, welcome!<br>
-        Discord: .̾/̾cxn#1724
+        Discord: 0xpsicod0s
     </em>
     <br>
 </p>
